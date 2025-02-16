@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adithya Gatty! 👋</h1>
+<h1 align="center">Hi there, I'm Adithya P! 👋</h1>
 <p align="center">
   <em>Passionate about Computer Science, elegant code, and innovative problem-solving.</em>
 </p>
