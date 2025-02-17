@@ -1,22 +1,21 @@
 <div align="center">
   <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
 </div>
-<h1 align="center">Hi 👋, I'm KIRAN KUMAR K</h1>
+<h1 align="center">Hi 👋, I'm ADITHYA P</h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3><p align="center"><b>🔒 Ethical Hacker | Cybersecurity Enthusiast | Vulnerability Hunter</b></p></h3>
+<h3><p align="center"><b>🔒 Full Stack Web developer | Mobile App developer | Equity Reserch Analyst</b></p></h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kiran-kumar-k3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
 
 ---
 ## 🚀 About Me
 <div style="text-align: justify;">
 I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerabilities and fortifying digital landscapes. My journey in ethical hacking is driven by a commitment to safeguarding systems against malicious threats. Armed with curiosity and technical expertise, I navigate the complex realm of cybersecurity, striving to contribute to a safer online world.
 </div>
+
+---
 
 ## My Skills
 
