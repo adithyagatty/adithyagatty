@@ -12,7 +12,7 @@
 ---
 ## 🚀 About Me
 <div style="text-align: justify;">
-I am a dedicated cybersecurity enthusiast with a passion for uncovering vulnerabilities and fortifying digital landscapes. My journey in ethical hacking is driven by a commitment to safeguarding systems against malicious threats. Armed with curiosity and technical expertise, I navigate the complex realm of cybersecurity, striving to contribute to a safer online world.
+Ever since I wrote my first line of code, my journey has been a thrilling adventure—crafting dynamic full-stack web applications with React, Next.js, and Node.js, solving intricate challenges with Python’s data structures and algorithms, and exploring the innovative realms of AI, ML, and deep learning, all of which fuel my relentless passion for turning challenges into elegant solutions
 </div>
 
 ---
