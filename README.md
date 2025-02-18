@@ -24,8 +24,8 @@ Ever since I wrote my first line of code, my journey has been a thrilling advent
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white" alt="Next UI"/>
   <img src="https://img.shields.io/badge/DaisyUI-FFB703?style=for-the-badge&logoColor=black" alt="DaisyUI"/>
+  <img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white" alt="Next UI"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -34,8 +34,9 @@ Ever since I wrote my first line of code, my journey has been a thrilling advent
   <h3>Back End</h3>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rapidapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  
   
   <br /><br />
   <h3>Problem Solving</h3>
