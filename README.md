@@ -50,6 +50,7 @@ Ever since I wrote my first line of code, my journey has been a thrilling advent
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adithyagatty&show_icons=true&theme=dark" alt="Adithya's GitHub Stats" />
 </p>
+<div></div>
 
 ---
 
