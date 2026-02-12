@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm ADITHYA P</h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3><p align="center"><b>🔒 Full Stack Web developer | Mobile App developer | Equity Reserch Analyst</b></p></h3>
+<h3><p align="center"><b>🔒 Full Stack Web developer | Mobile App developer | Equity Research Analyst</b></p></h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
